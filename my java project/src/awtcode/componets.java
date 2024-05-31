@@ -1,3 +1,4 @@
+package awtcode;
 import java.awt.*;
 
 public class componets {

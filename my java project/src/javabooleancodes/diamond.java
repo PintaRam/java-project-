@@ -1,4 +1,4 @@
-
+package javabooleancodes;
 import java.io.*;;
 
 public class diamond {

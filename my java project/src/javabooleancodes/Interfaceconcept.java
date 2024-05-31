@@ -1,7 +1,10 @@
-
+package javabooleancodes;
 import java.util.Scanner;
 
+import javacode.sortStudents;
+
 interface Bank {
+    final static int a = 10;
     float rateOfInterest();
 }
 

@@ -1,7 +1,10 @@
+package javabooleancodes;
 public class aggregationconcept {
-    String city, state, country;
+    public String city;
+    public String state;
+    public String country;
 
-    aggregationconcept(String city, String state, String country) {
+    public aggregationconcept(String city, String state, String country) {
         this.city = city;
         this.state = state;
         this.country = country;

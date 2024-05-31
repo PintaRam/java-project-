@@ -1,3 +1,5 @@
+package javabooleancodes;
+
 public class Myclass {
     int num1 = 10;
     private static int num2 = 20;

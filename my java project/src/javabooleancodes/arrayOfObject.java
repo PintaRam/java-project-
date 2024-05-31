@@ -1,3 +1,4 @@
+package javabooleancodes;
 import java.util.*;
 
 class student {

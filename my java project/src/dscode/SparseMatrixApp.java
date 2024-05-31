@@ -1,10 +1,12 @@
+package dscode;
+
 import java.util.*;
 
 public class SparseMatrixApp {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("2D array format for sparse Matrix : ");
-        System.out.println("Enter the number of rows :");3
+        System.out.println("Enter the number of rows :");
         int rw = sc.nextInt();
         System.out.println("Enter the number of columns : ");
         int cl = sc.nextInt();

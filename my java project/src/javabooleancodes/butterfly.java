@@ -1,6 +1,6 @@
-
+package javabooleancodes;
 import java.io.*;
-//import java.util.Scanner;
+import java.util.Scanner;
 
 class butterfly {
     public static void main(String[] args) {

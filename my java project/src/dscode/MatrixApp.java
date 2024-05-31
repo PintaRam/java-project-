@@ -67,7 +67,7 @@ class Matrix {
                     prod.mat[i][j] = prod.mat[i][j] + this.mat[i][k] * m.mat[k][j];
                 }
             }
-        } 
+        }
         return prod;
     }
 }
