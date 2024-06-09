@@ -1,4 +1,4 @@
-package dscode;
+
 
 import java.util.Scanner;
 

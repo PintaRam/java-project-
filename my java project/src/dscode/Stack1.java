@@ -77,6 +77,7 @@ class Stack1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of  stack : ");
+        String str = sc.nextLine();
         int size = sc.nextInt();
         if (size <= 0) {
             System.out.println("please enter the right value of a size of a stack : ");
